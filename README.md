@@ -156,3 +156,12 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
     </td>
     </tr>
 </table>
+
+#Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=codexblue&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=codexblue&&theme=react&&hide_border=true"
+/>
