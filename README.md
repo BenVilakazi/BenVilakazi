@@ -1,14 +1,14 @@
-# 👋 Hello there!
+# 👋 Hey there
 
 <div align="justify">
-My name is Ben and I'm a Front End Developer who loves working with JavaScript technologies. At the moment I am focused on learning everything related to Web Development. I am also passionate about exploring new technologies which I can leverage to solve real-life problems. 
+    My name is Ben and I'm a Front End DEveloper who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 # 🔧 Technologies & Tools
 
 <table>
-<tr>
-<td align="center" height="108" width="108">
+  <tr>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -17,7 +17,7 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
       />
       <br /><strong>HTML5</strong>
     </td>
-<td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -25,8 +25,8 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
-    </td>>
-<td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -34,8 +34,8 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
-</td> 
-<td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -43,8 +43,8 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
-</td>
-<td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -154,10 +154,10 @@ My name is Ben and I'm a Front End Developer who loves working with JavaScript t
       />
       <br /><strong>Jest</strong>
     </td>
-    </tr>
+  </tr>
 </table>
 
-#Stats
+# 📈 Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=codexblue&show_icons=true&theme=react&&hide_border=true"
