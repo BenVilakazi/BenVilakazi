@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Ben and I'm a Front End DEveloper who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Ben and I'm a Full Stack Developer who loves to work with JavaScript and Python technologies. Right now my mind is focused on learning everything that is related to Software Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 # 🔧 Technologies & Tools
