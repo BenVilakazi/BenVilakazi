@@ -1,40 +1,16 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Ben and I'm a Full Stack Developer who loves to work with JavaScript and Python technologies. Right now my mind is focused on learning everything that is related to Software Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Ben and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
+
+<br/><a href="https://www.linkedin.com/in/ben-vilakazi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="benvilakazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
@@ -43,6 +19,15 @@
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        width="48"
+        height="48"
+        alt="VueJS"
+      />
+      <br /><strong>Vue</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -55,21 +40,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
-        alt="Redux"
+        alt="Next.js"
       />
-      <br /><strong>Redux</strong>
+      <br /><strong>Next.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Sass"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -79,6 +73,15 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
     </td>
   </tr>
   <tr>
@@ -129,30 +132,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Python"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Docker"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="AWS"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>AWS</strong>
     </td>
   </tr>
 </table>
@@ -160,8 +163,10 @@
 # 📈 Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=codexblue&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=benvilakazi&show_icons=true&theme=react&&hide_border=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=codexblue&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=benvilakazi&&theme=react&&hide_border=true"
 />
+<br/>
+![](https://komarev.com/ghpvc/?username=benvilakazi)
