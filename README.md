@@ -169,5 +169,8 @@
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=benvilakazi&&theme=react&&hide_border=true"
 />
-<br/>
-![](https://komarev.com/ghpvc/?username=benvilakazi)
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysuarex&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true"/>
+
+<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" /> </p>
