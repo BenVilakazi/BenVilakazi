@@ -176,4 +176,7 @@
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysuarex&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true"/>
 
-<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<h3><a href="https://www.buymeacoffee.com/xolanithegp"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h3>
+<i>Your support fuels my journey—keeping the code flowing and ideas brewing!</i>
+
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" /> </p>
