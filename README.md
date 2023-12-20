@@ -173,6 +173,8 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=benvilakazi&&theme=react&&hide_border=true"
 />
 
+<p align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benvilakazi&theme=react" alt="ben" /></p>
+
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysuarex&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true"/>
 
