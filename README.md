@@ -34,6 +34,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+        width="48"
+        height="48"
+        alt="Nuxt"
+      />
+      <br /><strong>Nuxt</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -46,9 +55,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="Next"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>Next</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -61,21 +70,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -93,9 +93,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="Node"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Node</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -135,12 +135,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="Playwright"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Playwright</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -153,7 +153,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
         width="48"
         height="48"
         alt="AWS"
@@ -162,14 +162,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/benvilakazi/benvilakazi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 # 📈 Stats
 
